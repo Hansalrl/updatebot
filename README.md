@@ -64,7 +64,7 @@ B. **RUNNING**
 • pkg install git
 • pkg install ffmpeg
 • pkg install nodejs
-• git clone https://github.com/mrfzvx12/whatsapp-bot
+• git clone https://github.com/Hansalrl/updatebot
 • cd whatsapp-bot
 • npm i
 ```

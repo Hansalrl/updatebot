@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfzvx12/whatsapp-bot.git"
+    "url": "git+https://github.com/Hansalrl/updatebot.git"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",

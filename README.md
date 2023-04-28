@@ -131,7 +131,7 @@ For better experience
 • apt install git
 • apt install nodejs
 • apt install ffmpeg
-• git clone https://github.com/mrfzvx12/whatsapp-bot
+• git clone https://github.com/Hansalrl/updatebot
 • npm i
 ```
 Setting owner number, and then
@@ -181,7 +181,7 @@ client.sendButton(from, text, desk, button, row)
 - [x] Absensi & Voting
 - [ ] And much more
 
-You can open menu [In here](https://github.com/mrfzvx12/whatsapp-bot/blob/main/functions/menu.js)
+You can open menu [In here](https://github.com/Hansalrl/updatebot/blob/main/functions/menu.js)
 
 ### WhatsApp Group
 Get all informasi for updating, sharing & play bot

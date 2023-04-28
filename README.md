@@ -61,12 +61,15 @@ B. **RUNNING**
 - **TERMUX USER**
 
 ```bash
-• pkg install git
-• pkg install ffmpeg
-• pkg install nodejs
+pkg install git
+pkg install yarn
+pkg install mc
+pkg install git
+pkg install ffmpeg
+pkg install nodejs
 ```
 ```
-• git clone https://github.com/Hansalrl/updatebot
+git clone https://github.com/Hansalrl/updatebot
 ```
 ```
 • cd whatsapp-bot
